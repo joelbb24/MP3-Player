@@ -1,5 +1,5 @@
 # MP3-Player
-A simple MP3 Player Software
+MP3-Player with GUI and in built file chooser.
 
 Needs to be run on NetBeans environment.
 You may need the scenebuilder tool to run the GUI.
